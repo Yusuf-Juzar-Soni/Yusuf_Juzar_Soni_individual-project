@@ -15,6 +15,7 @@ In our case, I have implemented the factory pattern to handle the result generat
 
 
 ### Steps to run the Program.
+* Java Version 11.0.8 Used
 * Clone the project from GitHub using command:
  git clone https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni.git
 * Navigate to the src folder, and start cmd.
