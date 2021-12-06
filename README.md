@@ -25,17 +25,17 @@ In our case, I have implemented the factory pattern to handle the result generat
   
 ### Screenshot
 * Initial steps
-![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Step1_2.PNG)
+![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Step1_2.PNG)
 * Command Prompt Screen for the three input files
- ![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Screen_Capture_cmd.PNG)
+ ![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Screen_Capture_cmd.PNG)
 * Log File for Input1
-![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Input1.PNG)
+![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Input1.PNG)
 * Log File for Input 2
- ![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Input2.PNG)
+ ![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Input2.PNG)
 * Log File for Input 3 
-![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Input3.PNG)
+![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Input3.PNG)
 
 ### Class Diagram
-![image](https://github.com/gopinathsjsu/individual-project-Yusuf-Juzar-Soni/blob/main/Output%20Images/Class_Diagram.png)
+![image](https://github.com/Yusuf-Juzar-Soni/Yusuf_Juzar_Soni_individual-project/blob/main/Output%20Images/Class_Diagram.png)
 
 
