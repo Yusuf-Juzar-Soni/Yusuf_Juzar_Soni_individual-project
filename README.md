@@ -1,4 +1,4 @@
-# individual-project-Yusuf-Juzar-Soni
+# Understanding Design Patterns
 ## Build an Inventory Management System incorporating Design Patterns
 ### Design Patterns Used
 **Singleton Pattern**
